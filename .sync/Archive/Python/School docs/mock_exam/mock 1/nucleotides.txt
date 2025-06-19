@@ -1,0 +1,9 @@
+Nucleotide,Molecular_Weight,Absorbance_Maximum,Molar_Extinction_Coefficient
+ATP,507.2,259.0,15400.0
+CTP,483.2,271.0,9000.0
+GTP,523.2,253.0,13700.0
+UTP,484.2,262.0,10000.0
+dATP,491.2,259.0,15200.0
+dCTP,467.2,271.0,9300.0
+dGTP,507.2,253.0,13700.0
+dTTP,482.2,267.0,9600.0

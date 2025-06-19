@@ -1,0 +1,23 @@
+1. Practice Question 1: Reverse Codon Mapping and Grouping
+a) You're given a file called codon_to_amino.txt. Each line contains 3 DNA bases and the amino acid they code for. Some amino acids may have multiple codons.
+b) Read the file and create a dictionary where:
+	The key is the amino acid.
+	The value is a list of all codons (as strings, e.g., 'GTT') that produce that amino acid.
+c) Print the dictionary in alphabetical order of the amino acid.
+d) Convert it into a pandas DataFrame with columns:
+	AminoAcid
+	Codons (a string showing codons separated by commas)
+
+2. Practice Question 2: Translate Nucleotide Sequence to Protein
+You are given a DNA nucleotide sequence in a file called nucleotide_sequence.txt. Your task is to:
+
+a) Read the sequence from the file (all in one line, no spaces).
+b) Split it into codons (groups of 3 letters).
+c) Use a codon dictionary (same as from codon_to_amino.txt) to translate it into a protein sequence of amino acids.
+d) Stop the translation if a stop codon (*) is encountered.
+e) Create a final amino acid sequence string (e.g., "MVK"), and print the result.
+
+Tip:
+- Read nucleotide_sequence.txt and loop through the sequence 3 letters at a time.
+- Use the dictionary to find the amino acid.
+- Stop when you see * (e.g., "TAA" → *).

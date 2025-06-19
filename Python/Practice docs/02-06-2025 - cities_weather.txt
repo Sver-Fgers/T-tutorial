@@ -1,0 +1,6 @@
+City,Temperature,Rainfall
+Lagos,27.3,1500
+Cairo,22.0,30
+London,15.5,1150
+Tokyo,16.3,1300
+Nairobi,19.8,900

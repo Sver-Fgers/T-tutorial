@@ -1,0 +1,6 @@
+Escherichia_coli, Faecalibacterium, Clostridium, Akkermansia, Enterococcus, Lactobacillus, Ruminococcus, Prevotella, Streptococcus, Bacteroides
+25,10,12,1,10,5,3,4,5,10
+30,12,15,0,10,5,2,3,20,5
+28,15,14,2,6,5,3,2,8,12
+27,8,20,1,8,7,5,4,10,10
+35,5,18,0,11,3,2,5,6,15

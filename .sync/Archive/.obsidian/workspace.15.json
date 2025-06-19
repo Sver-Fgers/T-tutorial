@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "9a48034cd03beced",
+    "type": "split",
+    "children": [
+      {
+        "id": "0441836ad978c363",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4af4e085e9488388",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "5134d29650f725c3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f7f158fda95f53f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bc30e72cf9bb78d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "017d529e883087a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "57f98a080817a890",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5253c20ae8ea34ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "537a0e550be4cfdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "290195d511b9e090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "316458bbe80551ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "T-tutorial board.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for T-tutorial board"
+            }
+          },
+          {
+            "id": "ff46c3d27102cf2d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "T-tutorial board.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from T-tutorial board"
+            }
+          },
+          {
+            "id": "34c6a68300198fab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "42f5ffcc01dbdc2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "T-tutorial board.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of T-tutorial board"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "017d529e883087a9",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "19-05-2025-mock1-Q1-questions.md",
+    "Python/Practice docs/python_practice_questions.md",
+    "Untitled.md",
+    "19-05-2025 - mock 1 - Q1 - similar.md",
+    "Untitled 1.md",
+    "Python/Practice docs/image.png",
+    "Python/Practice docs/19-05-2025-livepractice.ipynb",
+    "Python/Practice docs/Untitled.ipynb",
+    "Python/School docs/3mer_frequencies.txt",
+    "Python/School docs/3000words.txt",
+    "Python/School docs/Test_1.ipynb",
+    "Python/School docs/__pycache__/week6_accessory_functions.cpython-311.pyc",
+    "Python/School docs/__pycache__/custom_module.cpython-311.pyc",
+    "Python/School docs/Test_2.ipynb",
+    "Python/School docs/Untitled1.ipynb",
+    "Python/School docs/mock_exam/mock 2/Programming_first_exam_2425.pdf",
+    "R programming/@T-R.md",
+    "Python/tutorial board.md",
+    "Python/@T-python.md",
+    "Python/python_practice_questions.md",
+    "T-tutorial board.md",
+    "07-05-2025.md"
+  ]
+}

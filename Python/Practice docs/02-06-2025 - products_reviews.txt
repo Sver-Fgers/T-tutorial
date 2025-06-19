@@ -1,0 +1,6 @@
+Product,Rating,Reviews
+Smartphone,4.5,2300
+Laptop,4.3,1200
+Headphones,4.1,980
+Keyboard,4.0,600
+Monitor,4.4,870
